@@ -1,0 +1,9 @@
+body
+{
+    background: -webkit-linear-gradient(rgb(9, 253, 221), rgb(4, 0, 255));
+}
+
+.header
+{
+    text-decoration-color: -webkit-linear-gradient(purple, magenta);
+}
